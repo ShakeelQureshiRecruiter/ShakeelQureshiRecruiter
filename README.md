@@ -30,23 +30,19 @@
 
 ### 1. TalentSync™ Engine – Predictive Sourcing & Matching
 • Multi-Channel Job Posting: AngelList (Wellfound), Indeed & niche platforms  → resumes parsed using NLP + GPT-4  
-• NLP + Semantic Sourcing: API-scraped (GitHub, Stack Overflow) + Upwork enrichment → direct outreach
-
-• Google CSE Integration: Structured search across LinkedIn, Dice & niche platforms → high-intent candidate discovery
-
-• Social Signal Sourcing: X (#OpenToWork, #DevJobs) + Reddit (r/forhire, r/cscareerquestions) → real-time talent cues
-
-• GPT-4 Precision Matching: Code, project & profile analysis + culture fit proxies → 35% boost in pipeline quality
-
-• Productivity Boost: AI auto-ranks candidates → 30% recruiter time saved
+• NLP + Semantic Sourcing: API-scraped (GitHub, Stack Overflow) + Upwork enrichment → direct outreach  
+• Google CSE Integration: Structured search across LinkedIn, Dice & niche platforms → high-intent candidate discovery  
+• Social Signal Sourcing: X (#OpenToWork, #DevJobs) + Reddit (r/forhire, r/cscareerquestions) → real-time talent cues  
+• GPT-4 Precision Matching: Code, project & profile analysis + culture fit proxies → 35% boost in pipeline quality  
+• Productivity Boost: AI auto-ranks candidates → 30% recruiter time saved  
 
 ### 2. EngageIQ™ Engine – Candidate Experience Automation
-• AI Outreach: NLP-optimized messages tone/hook adaptation → 40% response rate (2.7x industry)
-• Bias-Aware Nurturing: Post-response engagement → 92% satisfaction (NPS 4.8/5)
+• AI Outreach: NLP-optimized messages tone/hook adaptation → 40% response rate (2.7x industry)  
+• Bias-Aware Nurturing: Post-response engagement → 92% satisfaction (NPS 4.8/5)  
 
 ### 3. FitScore™ Engine – Bias-Resistant Screening
-• Smart Intake Form: 10-minute DEI-compliant knockout intake → 35% higher accuracy
-• Pre-Interview Shortlisting: GPT-4 evaluates 20+ metrics → enables 65% auto-shortlisting (saving 15+ hrs/week)
+• Smart Intake Form: 10-minute DEI-compliant knockout intake → 35% higher accuracy  
+• Pre-Interview Shortlisting: GPT-4 evaluates 20+ metrics → enables 65% auto-shortlisting (saving 15+ hrs/week)  
 
 ### 4. TalentRisk™ Engine – Retention Analytics
 • Predictive Analytics & Risk Assessment: GPT-4 analyzes 45+ signals → 85% retention rate (vs. 60% avg)
