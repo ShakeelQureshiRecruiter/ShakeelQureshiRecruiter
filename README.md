@@ -28,7 +28,7 @@
 
 ## ♦ AI RECRUITMENT ENGINES ♦
 
-1. TalentSync™ Engine – Predictive Sourcing & Matching
+### 1. TalentSync™ Engine – Predictive Sourcing & Matching:
 • Multi-Channel Job Posting: AngelList (Wellfound), Indeed & niche platforms  → resumes parsed using NLP + GPT-4
 • NLP + Semantic Sourcing: API-scraped (GitHub, Stack Overflow) + Upwork enrichment → direct outreach
 
