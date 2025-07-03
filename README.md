@@ -1,4 +1,5 @@
 # Shakeel Qureshi  
+<span style="color:red">This text is red</span>
 ### Senior Technical Recruiter | AI Recruitment Systems Architect  
 • 30+ Years Scaling Tech Teams → 3+ Years Automating Hiring with AI  
 
