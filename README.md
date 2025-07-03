@@ -31,8 +31,8 @@
 ### 1. TalentSync™ Engine – Predictive Sourcing & Matching
 • Multi-Channel Job Posting: AngelList, Indeed & niche platforms  → resumes parsed using NLP + GPT-4  
 • NLP + Semantic Sourcing: API-scraped (GitHub, Stack Overflow) + Upwork enrichment → direct outreach  
-• Google CSE Integration: Structured search across LinkedIn, Dice & niche platforms → high-intent candidate discovery  
-• Social Signal Sourcing: X (#OpenToWork, #DevJobs) + Reddit (r/forhire, r/cscareerquestions) → real-time talent cues  
+• Google CSE Int.: Structured search across LinkedIn, Dice & niche platforms → high-intent candidate discovery  
+• Social Signal Sourcing: X (#OpenToWork, #DevJobs) + Reddit (r/forhire, r/cscareerquestions) → real-time talent  
 • GPT-4 Precision Matching: Code, project & profile analysis + culture fit proxies → 35% boost in pipeline quality  
 • Productivity Boost: AI auto-ranks candidates → 30% recruiter time saved  
 
