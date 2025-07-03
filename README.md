@@ -49,6 +49,8 @@
 → Full GDPR compliance  
 → Identifies flight risks 3-6 months early  
 
+---
+
 
 *Proprietary AI engines | GDPR & EEOC compliant by design*
 
