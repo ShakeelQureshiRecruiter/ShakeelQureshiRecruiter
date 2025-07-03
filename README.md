@@ -45,12 +45,12 @@
 • Pre-Interview Shortlisting: GPT-4 evaluates 20+ metrics → enables 65% auto-shortlisting (saving 15+ hrs/week)  
 
 ### 4. TalentRisk™ Engine – Retention Analytics
-• Predictive Analytics & Risk Assessment: GPT-4 analyzes 45+ signals → 85% retention rate (vs. 60% avg)
-→ Full GDPR compliance
-→ Identifies flight risks 3-6 months early
+• Predictive Analytics & Risk Assessment: GPT-4 analyzes 45+ signals → 85% retention rate (vs. 60% avg)  
+→ Full GDPR compliance  
+→ Identifies flight risks 3-6 months early  
 
 
-> *Proprietary AI engines | GDPR & EEOC compliant by design*
+*Proprietary AI engines | GDPR & EEOC compliant by design*
 
 
 ---
