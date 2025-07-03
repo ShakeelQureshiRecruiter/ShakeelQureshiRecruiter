@@ -58,19 +58,19 @@
 ---
 
 ### Structured Interviews
-• Culture Fit: DEI-optimized scenarios → 92% shortlist accuracy
-• Technical Fit: Cloud/debugging drills → 40% reduction in mis-hires
+• Culture Fit: DEI-optimized scenarios → 92% shortlist accuracy  
+• Technical Fit: Cloud/debugging drills → 40% reduction in mis-hires  
 
 ### Skills Validation
-• Coding Test: LLM-graded, Python/JS → 80% accuracy; or optional Live Pair Programming
-• SJT: Bias-aware situational judgement tests → auto-scored
+• Coding Test: LLM-graded, Python/JS → 80% accuracy; or optional Live Pair Programming  
+• SJT: Bias-aware situational judgement tests → auto-scored  
 
 ---
 
 ## ♦ Deployment Options ♦
 - **Standalone** – Full-stack AI ATS  
 - **Modular Integration** – Add specific engines to your stack  
-- **Hybrid** – Phase-wise automation
+- **Hybrid** – Phase-wise automation  
   
 ![deepseek_mermaid_20250703_e3f6c1](https://github.com/user-attachments/assets/5c6704ed-2b07-475b-a97a-6e8454857d2b)
 
