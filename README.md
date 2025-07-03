@@ -42,7 +42,7 @@
 
 ### 3. FitScore™ Engine – Bias-Resistant Screening
 • Smart Intake Form: 10-minute DEI-compliant knockout intake → 35% higher accuracy  
-• Pre-Interview Shortlisting: GPT-4 evaluates 20+ metrics → enables 65% auto-shortlisting (saving 15+ hrs/week)  
+• Pre-Interview Shortlisting: GPT-4 evaluates 20+ metrics → 65% auto-shortlisting (saving 15+ hrs/week)  
 
 ### 4. TalentRisk™ Engine – Retention Analytics
 • Predictive Analytics & Risk Assessment: GPT-4 analyzes 45+ signals → 85% retention rate (vs. 60% avg)  
