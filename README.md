@@ -31,8 +31,8 @@
 • Multi-Channel Job Posting: AngelList, Indeed & niche platforms -> resumes parsed via NLP + GPT-4  
 • NLP + Semantic Sourcing: API-scraped (GitHub, Stack Overflow) + Upwork enrichment -> direct outreach  
 • Google CSE Integration: Structured search on LinkedIn, Dice & niche sites -> high-intent candidate discovery  
-• Social Signal Sourcing: X (#OpenToWork, #DevJobs) + Reddit (r/forhire, r/cscareerquestions) -> live talent signals  
-• GPT-4 Precision Matching: Code, project, and profile analysis + culture-fit proxies -> 35% pipeline quality boost  
+• Social Signal Sourcing: X (#OpenToWork, #DevJobs) + Reddit (r/forhire, r/cscareerquestions) -> talent signals  
+• GPT-4 Precision Matching: Code, project & profile analysis + culture-fit signals -> 35% stronger pipelines  
 • Productivity Boost: AI auto-ranks candidates -> 30% recruiter time saved  
 
 ### 2. EngageIQ™ Engine – Candidate Experience Automation  
