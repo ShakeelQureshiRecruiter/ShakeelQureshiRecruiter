@@ -81,7 +81,7 @@
 ---
 
 ## ♦ LET’S TALK ♦  
-Hiring for technical roles or building AI into your recruitment stack? I can help.
+Hiring for technical roles or building AI into your recruitment stack? I can help.  
 • **Email**: shakeel.techrecruiter@gmail.com
 
 
