@@ -70,6 +70,8 @@
 • **Modular Integration** – Add specific engines to your stack  
 • **Hybrid** – Phase-wise automation  
 
+![deepseek_mermaid_20250703_e3f6c1](https://github.com/user-attachments/assets/0653b06f-57d6-406b-8d95-7c24b01769f8)
+
 
 ---
 
