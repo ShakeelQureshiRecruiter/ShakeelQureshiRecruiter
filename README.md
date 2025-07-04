@@ -44,9 +44,9 @@
 • Pre-Interview Shortlisting: GPT-4 scores 20+ metrics -> 65% auto-shortlisting (saving 15+ hrs/week)
 
 ### 4. TalentRisk™ Engine – Retention Analytics  
-• Predictive Analytics & Risk Assessment: GPT-4 analyzes 45+ signals -> 85% retention rate (vs. 60% avg)
-• Risk Assessment: Flags resignation risks, burnout indicators & job mismatch -> early intervention enabled
-• Audit-Ready Design: Auto-logged decisions + system documentation -> transparent, traceable AI
+• Predictive Analytics & Risk Assessment: GPT-4 analyzes 45+ signals -> 85% retention rate (vs. 60% avg)  
+• Risk Assessment: Flags resignation risks, burnout indicators & job mismatch -> early intervention enabled  
+• Audit-Ready Design: Auto-logged decisions + system documentation -> transparent, traceable AI  
  
 
 > *Proprietary AI engines | GDPR & EEOC compliant by design*
