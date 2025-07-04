@@ -27,12 +27,12 @@
 
 ## ♦ AI RECRUITMENT ENGINES ♦  
 
-### 1. TalentSync™ Engine – Predictive Sourcing & Matching  
-• Multi-Channel Job Posting: AngelList (Wellfound), Indeed & niche platforms -> resumes parsed using NLP + GPT-4  
+### 1. TalentSync™ Engine – Predictive Sourcing & Matching   
+• Multi-Channel Job Posting: AngelList, Indeed & niche platforms -> resumes parsed via NLP + GPT-4  
 • NLP + Semantic Sourcing: API-scraped (GitHub, Stack Overflow) + Upwork enrichment -> direct outreach  
-• Google CSE Integration: Structured search across LinkedIn, Dice & niche platforms -> high-intent candidate discovery  
-• Social Signal Sourcing: X (#OpenToWork, #DevJobs) + Reddit (r/forhire, r/cscareerquestions) -> real-time talent cues  
-• GPT-4 Precision Matching: Code, project, and profile analysis + culture-fit proxies -> 35% pipeline quality boost
+• Google CSE Integration: Structured search on LinkedIn, Dice & niche sites -> high-intent candidate discovery  
+• Social Signal Sourcing: X (#OpenToWork, #DevJobs) + Reddit (r/forhire, r/cscareerquestions) -> live talent signals  
+• GPT-4 Precision Matching: Code, project, and profile analysis + culture-fit proxies -> 35% pipeline quality boost  
 • Productivity Boost: AI auto-ranks candidates -> 30% recruiter time saved  
 
 ### 2. EngageIQ™ Engine – Candidate Experience Automation  
