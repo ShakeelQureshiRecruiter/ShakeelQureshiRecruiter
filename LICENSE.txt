@@ -1,4 +1,5 @@
 🔒 Proprietary Notice – Not Open Source
+
 This repository and all associated content—including but not limited to TalentSync™, EngageIQ™, FitScore™, and TalentRisk™ engines—along with related hiring workflows, models, automation logic, and documentation—constitute the proprietary intellectual property of Shakeel Qureshi.
 
 All system names, components, and methodologies are protected under common law trademark rights (First Commercial Use: 2025). The ™ symbol is used to assert unregistered trademark ownership.
