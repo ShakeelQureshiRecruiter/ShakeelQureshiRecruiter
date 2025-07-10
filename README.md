@@ -61,10 +61,10 @@ All naming conventions (e.g., TalentSync™, FitScore™), models, and deploymen
 ## ♦ AI RECRUITMENT ENGINES ♦
 
 ### 1. TalentSync™ – Predictive Sourcing & Matching
-• Geo-Optimized Job Posts: WellFound + local boards (PH/PL/RO/CZ/IN/PK) → automating distribution  
-• Semantic Sourcing: GitHub, Stack Overflow (API), Upwork (invites) → matching (code, Q&A, contract history)  
-• Intent & Risk Signals: Boolean strings + Reddit/X + Discords → predicting dropout risk & engagement  
-• AI Matching Logic: Scoring codebase, portfolio, and role fit → filtering 65% mismatches before outreach  
+• Geo-Optimized Job Posts: WellFound + local boards (PH/PL/RO/CZ/IN/PK) → automates distribution  
+• Semantic Sourcing: GitHub, Stack Overflow (API), Upwork (invites) → matches (code, Q&A, contract history)  
+• Intent & Risk Signals: Boolean strings + Reddit/X + Discords → predicts dropout risk & engagement  
+• AI Matching Logic: Scoring codebase, portfolio, and role fit → filters 65% mismatches before outreach  
 
 
 ### 2. EngageIQ™ – Candidate Experience Automation
