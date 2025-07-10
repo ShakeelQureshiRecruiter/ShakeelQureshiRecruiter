@@ -61,7 +61,7 @@ All naming conventions (e.g., TalentSync™, FitScore™), models, and prior cli
 
 ### 1. TalentSync™ – Predictive Sourcing & Matching
 • Geo-Optimized Job Posts: WellFound + local boards (PH/PL/RO/CZ/IN/PK) → automating distribution  
-• Semantic Sourcing: GitHub, Stack Overflow (API), Upwork (invites) → matching (code, Q&A, contract history)
+• Semantic Sourcing: GitHub, Stack Overflow (API), Upwork (invites) → matching (code, Q&A, contract history)  
 • Intent & Risk Signals: Boolean strings + Reddit/X + Discords → predicting dropout risk & engagement  
 • AI Matching Logic: Scoring codebase, portfolio, and role fit → filtering 65% mismatches before outreach  
 
