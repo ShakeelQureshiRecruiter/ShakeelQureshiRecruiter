@@ -8,35 +8,36 @@ _Hiring Innovation Since 1994 | AI Systems Since 2021 | Proprietary Engines Firs
 
 ## ♦ PUBLIC TRANSITION (2025) ♦
 
-From 2021–2024, I architected and deployed proprietary AI recruitment engines — including **TalentSync™** (sourcing), **FitScore™** (screening), **EngageIQ™** (engagement), and **TalentRisk™** (retention) — for enterprise and stealth clients under strict NDAs. While fully white-labeled and deployed via client infrastructure (e.g., private GitHub repos, internal ATS/CRM stacks, LinkedIn workflows), the core systems, architecture, and IP remain solely mine.
+From 2021 to 2024, I independently conceived, developed, and deployed a suite of modular AI recruitment systems — including, but not limited to, TalentSync™ (sourcing), FitScore™ (screening), EngageIQ™ (engagement), and TalentRisk™ (retention). These systems constitute my exclusive proprietary intellectual property and were made available to enterprise and stealth clients under strict non-disclosure agreements (NDAs).
 
-In 2025, I began open-sourcing select, non-sensitive components — starting with GitHub, Twitter/X, and Discord logic — to:
+Although deployed via client-side infrastructure (e.g., private GitHub repositories, internal ATS/CRM environments, LinkedIn automation workflows), all core logic, architectural design, and system IP remain solely owned by me, with no transfer, assignment, or licensing of ownership implied or granted.
 
+In 2025, I began open-sourcing select, non-sensitive modules — starting with GitHub, Twitter/X, and Discord integrations — to:
 
-• Showcase core system architecture  
-• Promote transparent, ethical recruitment AI  
-• Invite collaboration on real-world tools  
+• Share core recruitment logic in the public domain  
+• Promote transparent and ethical AI development  
+• Collaborate with builders on real-world hiring tools  
 
-All releases respect NDA terms and preserve client confidentiality.
+All releases preserve client confidentiality and comply with NDA obligations.
 
 ---
 
 ### ▸ Current GitHub Focus:
 • Lightweight tools derived from production-grade systems  
 • Modular, API-ready logic for resume parsing, DEI scoring, async assessments  
-• Clear documentation with working demos  
+• Clear documentation and working demos for public use
 
 ### ▸ Live Repository: [github.com/shakeelq](https://github.com/shakeelq)
-• Resume Parser (LLM + NLP)  
-• DEI Fit Checker  
-• Outreach Assistant  
+• **Resume Parser** (LLM + NLP)  
+• **DEI Fit Checker**  
+• **Outreach Assistant**
 
-> **Note**: These are functional subsets of larger proprietary systems — shared for learning and collaboration, not commercial replication.
+> **Note**: These tools represent functional subsets of larger proprietary systems — shared for learning, research, and ethical collaboration. Commercial replication is not permitted.
 
 ---
 
 © 2025 Shakeel Qureshi.  
-All naming conventions (e.g., TalentSync™, FitScore™), models, and prior client deployments remain protected by NDA and copyright.
+All naming conventions (e.g., TalentSync™, FitScore™), models, and deployment logic are protected by copyright and trademark, and were made available to clients under non-disclosure agreements (NDAs) between 2021 and 2024.
 
 ---
 
