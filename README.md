@@ -27,7 +27,7 @@ All releases preserve client confidentiality and comply with NDA obligations.
 • Modular, API-ready logic for resume parsing, DEI scoring, async assessments  
 • Clear documentation and working demos for public use
 
-### ▸ Live Repository: [github.com/shakeelq](https://github.com/shakeelq)
+### ▸ Live Repository: [github.com/LiveCode](https://github.com/senior-tech-recruiter-ai/LiveCode)
 • **Resume Parser** (LLM + NLP)  
 • **DEI Fit Checker**  
 • **Outreach Assistant**
