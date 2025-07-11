@@ -63,22 +63,22 @@ All naming conventions (e.g., TalentSync™, FitScore™), models, and deploymen
 ## ♦ AI RECRUITMENT ENGINES ♦
 
 ### 1. TalentSync™ – Predictive Sourcing & Matching
-• Geo-Optimized Job Posts: Distributed across global tech hubs (South/East Europe & Asia) → automates distribution
-• Semantic Sourcing: Platforms with developer activity (code, Q&A, project history) → matches contribution signals
-• Intent & Risk Signals: Community engagement & social graph analysis → predicts dropout risk & engagement
-• AI Matching Logic: Evaluates portfolios and alignment to role requirements → filters 65% mismatches before outreach
+• Geo-Optimized Job Posts: Distributed across global tech hubs (South/East Europe & Asia) → automates distribution  
+• Semantic Sourcing: Platforms with developer activity (code, Q&A, project history) → matches contribution signals  
+• Intent & Risk Signals: Community engagement & social graph analysis → predicts dropout risk & engagement  
+• AI Matching Logic: Evaluates portfolios and alignment to role requirements → filters 65% mismatches before outreach  
 
 
 ### 2. EngageIQ™ – Candidate Experience Automation
-• AI Outreach: LLM-personalized messages (tone, timing, match) → 40% reply rate (2.7× industry avg)
-• Bias-Aware Nurturing: Follow-up logic tailored to inclusivity signals → 92% satisfaction rate (Candidate NPS: 4.5/5)
+• AI Outreach: LLM-personalized messages (tone, timing, match) → 40% reply rate (2.7× industry avg)  
+• Bias-Aware Nurturing: Follow-up logic tailored to inclusivity signals → 92% satisfaction rate (Candidate NPS: 4.5/5)  
 
 ### 3. FitScore™ – Bias-Resistant Screening
-• Smart Intake: 12-min GDPR/CCPA-compliant smart form → improved unbiased screening by 35%
-• Pre-Interview Shortlisting: Analyzes 20+ factors → 65% shortlist rate, saves 15+ hrs/week
+• Smart Intake: 12-min GDPR/CCPA-compliant smart form → improved unbiased screening by 35%  
+• Pre-Interview Shortlisting: Analyzes 20+ factors → 65% shortlist rate, saves 15+ hrs/week  
 
 ### 4. TalentRisk™ – Retention Analytics
-• Predictive Retention: Analyzes 45+ signals → 85% accuracy (↑ from 68%) on predicted 90-day fit
+• Predictive Retention: Analyzes 45+ signals → 85% accuracy (↑ from 68%) on predicted 90-day fit  
 • Risk Assessment: Flags burnout, resignation, mismatch → enables early intervention  
 • Audit-Ready AI: Auto-logged decisions + transparent system logic  
 
@@ -93,7 +93,7 @@ _Proprietary AI engines | GDPR & EEOC compliant by design_
 ---
 
 ## ♦ SKILLS VALIDATION ♦
-• **Coding Test**: AI-reviewed take-home tasks → 80% accuracy vs. 65% human benchmark; optional live coding
+• **Coding Test**: AI-reviewed take-home tasks → 80% accuracy vs. 65% human benchmark; optional live coding  
 • **Situational Judgment Tests (SJT)**: Auto-scored → aligned with role models and competencies
 
 ---
