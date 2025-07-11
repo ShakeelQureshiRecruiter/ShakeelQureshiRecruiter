@@ -4,8 +4,8 @@
 
 _Hiring Innovation Since 1994 | AI Systems Since 2021 | Proprietary Engines First Released 2025_
 
-—
-♦ PUBLIC TRANSITION (2025) ♦
+—  
+### ♦ PUBLIC TRANSITION (2025) ♦
 
 From 2021 to 2024, I independently conceived, developed, and deployed a suite of modular AI recruitment systems — including, but not limited to, TalentSync™ (sourcing), FitScore™ (screening), EngageIQ™ (engagement), and TalentRisk™ (retention). These systems constitute my exclusive proprietary intellectual property and were made available to enterprise and stealth clients under strict non-disclosure agreements (NDAs).
 
