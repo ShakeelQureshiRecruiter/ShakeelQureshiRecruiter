@@ -4,14 +4,14 @@
 
 _Hiring Innovation Since 1994 | AI Systems Since 2021 | Proprietary Engines First Released 2025_
 
----
-
-## ♦ PUBLIC TRANSITION (2025) ♦
+—
+♦ PUBLIC TRANSITION (2025) ♦
 
 From 2021 to 2024, I independently conceived, developed, and deployed a suite of modular AI recruitment systems — including, but not limited to, TalentSync™ (sourcing), FitScore™ (screening), EngageIQ™ (engagement), and TalentRisk™ (retention). These systems constitute my exclusive proprietary intellectual property and were made available to enterprise and stealth clients under strict non-disclosure agreements (NDAs).
 
-Although deployed via client-side infrastructure (e.g., private GitHub repositories, internal ATS/CRM environments, LinkedIn automation workflows), all core logic, architectural design, and system IP remain solely owned by me, with no transfer, assignment, or licensing of ownership implied or granted.
-
+All performance metrics cited (e.g., match rates, retention accuracy) were tracked across anonymized cohorts and remain reproducible.
+Although deployed via client-side infrastructure (e.g., private GitHub repos, internal ATS/CRM systems, LinkedIn automation workflows), all core logic, architectural design, and system IP remain solely owned by me — with no transfer, assignment, or licensing of ownership granted.
+While all intellectual property remains mine, select deployment results, client-specific configurations, and use-case outcomes are protected under prior NDAs and remain confidential.
 In 2025, I began open-sourcing select, non-sensitive modules — starting with GitHub, Twitter/X, and Discord integrations — to:
 
 • Share core recruitment logic in the public domain  
@@ -27,12 +27,14 @@ All releases preserve client confidentiality and comply with NDA obligations.
 • Modular, API-ready logic for resume parsing, DEI scoring, async assessments  
 • Clear documentation and working demos for public use
 
-### ▸ Live Repository: [github.com/LiveCode](https://github.com/senior-tech-recruiter-ai/LiveCode)
-• **Resume Parser** (LLM + NLP)  
+### ▸ Live Repository: [github.com/shakeelq](https://github.com/shakeelq)
+• **Resume Parser** (open-source resume parsing logic)
 • **DEI Fit Checker**  
 • **Outreach Assistant**
 
 > **Note**: These tools represent functional subsets of larger proprietary systems — shared for learning, research, and ethical collaboration. Commercial replication is not permitted.
+
+
 
 ---
 
@@ -61,22 +63,22 @@ All naming conventions (e.g., TalentSync™, FitScore™), models, and deploymen
 ## ♦ AI RECRUITMENT ENGINES ♦
 
 ### 1. TalentSync™ – Predictive Sourcing & Matching
-• Geo-Optimized Job Posts: WellFound + local boards (PH/PL/RO/CZ/IN/PK) → automates distribution  
-• Semantic Sourcing: GitHub, Stack Overflow (API), Upwork (invites) → matches (code, Q&A, contract history)  
-• Intent & Risk Signals: Boolean strings + Reddit/X + Discords → predicts dropout risk & engagement  
-• AI Matching Logic: Scoring codebase, portfolio, and role fit → filters 65% mismatches before outreach  
+• Geo-Optimized Job Posts: Distributed across global tech hubs (South/East Europe & Asia) → automates distribution
+• Semantic Sourcing: Platforms with developer activity (code, Q&A, project history) → matches contribution signals
+• Intent & Risk Signals: Community engagement & social graph analysis → predicts dropout risk & engagement
+• AI Matching Logic: Evaluates portfolios and alignment to role requirements → filters 65% mismatches before outreach
 
 
 ### 2. EngageIQ™ – Candidate Experience Automation
-• AI Outreach: NLP-optimized messaging with tone/hook tuning → 40% reply rate (2.7× industry avg)   
-• Bias-Aware Nurturing: Inclusive follow-up logic → 92% satisfaction rate (Candidate NPS: 4.5/5)  
+• AI Outreach: LLM-personalized messages (tone, timing, match) → 40% reply rate (2.7× industry avg)
+• Bias-Aware Nurturing: Follow-up logic tailored to inclusivity signals → 92% satisfaction rate (Candidate NPS: 4.5/5)
 
 ### 3. FitScore™ – Bias-Resistant Screening
-• Smart Intake: DEI-compliant, 12-minute knockout flow → 35% more accurate filtering  
-• Pre-Interview Shortlisting: GPT-4 evaluates 20+ metrics → 65% auto-shortlisting (saving 15+ hrs/week)  
+• Smart Intake: 12-min GDPR/CCPA-compliant smart form → improved unbiased screening by 35%
+• Pre-Interview Shortlisting: Analyzes 20+ factors → 65% shortlist rate, saves 15+ hrs/week
 
 ### 4. TalentRisk™ – Retention Analytics
-• Predictive Retention: GPT-4 analyzes 45+ signals → 85% retention accuracy (vs. 68% avg)  
+• Predictive Retention: Analyzes 45+ signals → 85% accuracy (↑ from 68%) on predicted 90-day fit
 • Risk Assessment: Flags burnout, resignation, mismatch → enables early intervention  
 • Audit-Ready AI: Auto-logged decisions + transparent system logic  
 
@@ -86,13 +88,13 @@ _Proprietary AI engines | GDPR & EEOC compliant by design_
 
 ## ♦ INTERVIEWS & ASSESSMENTS ♦
 • **Culture Fit**: DEI-optimized scenarios → 92% shortlist alignment  
-• **Technical Fit**: Cloud debugging, domain drills → 40% fewer mis-hires  
+• **Technical Fit**: Domain-specific tasks + follow-up reasoning checks → 40% fewer mis-hires
 
 ---
 
 ## ♦ SKILLS VALIDATION ♦
-• **Coding Test**: LLM-graded (Python/JS) → 80% accuracy; optional live pair programming  
-• **SJT**: Bias-aware situational judgment tests → auto-scored  
+• **Coding Test**: AI-reviewed take-home tasks → 80% accuracy vs. 65% human benchmark; optional live coding
+• **Situational Judgment Tests (SJT)**: Auto-scored → aligned with role models and competencies
 
 ---
 
@@ -101,9 +103,11 @@ _Proprietary AI engines | GDPR & EEOC compliant by design_
 • **Modular Integration** – Add specific engines to existing stacks  
 • **Hybrid** – Gradual deployment with phased automation  
 
-<img width="1501" height="522" alt="deepseek_mermaid_20250703_e3f6c1" src="https://github.com/user-attachments/assets/9a2d63bd-02ad-488d-ad45-b5698f893229" />
+—
 
----
+All logic descriptions represent high-level summaries. Specific implementation details, scoring logic, and client configurations remain proprietary.
+
+—
 
 ## ♦ INTELLECTUAL PROPERTY NOTICE ♦
 TalentSync™, FitScore™, EngageIQ™, and TalentRisk™ are proprietary recruitment engines developed by **Shakeel Qureshi** (First Commercial Use: 2025). All naming conventions, system logic, and deployment architecture remain the intellectual property of the developer.  
