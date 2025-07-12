@@ -1,5 +1,4 @@
-# AI Recruitment Systems  
-### Powering Next-Gen Hiring Workflows 
+## AI RECRUITMENT SYSTEMS — Powering Next-Gen Hiring Workflows 
 
 • PROPRIETARY INTELLECTUAL PROPERTY NOTICE  
 • PERMISSIONS  
@@ -30,7 +29,7 @@ confidential business assets protected under:
 Use constitutes acceptance of NDA Terms.  
 Unauthorized use, copying, or distribution is strictly prohibited.
 
-[ROPRIETARY LICENSE MD](./PROPRIETARY_LICENSE.md) | [PROPRIETARY LICENSE TXT](./PROPRIETARY_LICENSE.txt) | [NDA TERMS](./NDA.md) | [COMMERCIAL TERMS](./COMMERCIAL_TERMS.md)
+[PROPRIETARY LICENSE MD](./PROPRIETARY_LICENSE.md) | [PROPRIETARY LICENSE TXT](./PROPRIETARY_LICENSE.txt) | [NDA TERMS](./NDA.md) | [COMMERCIAL TERMS](./COMMERCIAL_TERMS.md)
 
 </div>
 
