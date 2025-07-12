@@ -57,10 +57,10 @@ Unlicensed commercial use may trigger:
 
 | System        | Description                               |
 |---------------|-------------------------------------------|
-| **TalentSync™** | Predictive sourcing & Matching          |
+| **TalentSync™** | Predictive Sourcing & Talent Discovery  |
 | **EngageIQ™**   | Personalized Outreach & Engagement      |
 | **FitScore™**   | Bias-Resistant Pre-Interview Screening  |
-| **TalentRisk™** | Predictive Analytics & Retention Risk   |
+| **TalentRisk™** | Retention Forecasting & Risk Analytics  |
 
 _All systems, workflows, and models remain proprietary intellectual property._
 
