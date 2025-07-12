@@ -162,11 +162,16 @@ _Proprietary AI engines | GDPR & EEOC compliant by design_
 
 <img width="1501" height="522" alt="deepseek_mermaid_20250703_e3f6c1" src="https://github.com/user-attachments/assets/6f8803d0-f85b-47cb-b7bc-4732337a768b" />
 
-—
+---
 
 All logic descriptions represent high-level summaries. Specific implementation details, scoring logic, and client configurations remain proprietary.  
 
-—
+---
+
+> 🔒 This repository contains proprietary systems.  
+> See [LICENSE.md](./LICENSE.md) for details or [LICENSE.txt](./LICENSE.txt) for legal summary.
+
+---
 
 ## ♦ INTELLECTUAL PROPERTY NOTICE ♦
 TalentSync™, FitScore™, EngageIQ™, and TalentRisk™ are proprietary recruitment engines developed by **Shakeel Qureshi** (First Commercial Use: 2025). All naming conventions, system logic, and deployment architecture remain the intellectual property of the developer.  
