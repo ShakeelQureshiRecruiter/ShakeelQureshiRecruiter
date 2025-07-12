@@ -93,10 +93,10 @@ All releases preserve client confidentiality and comply with NDA obligations.
 
 ## ♦ OPEN-SOURCE VS PROPRIETARY MODULES 
  
-| Module           | Open-Sourced Version     | Proprietary Equivalent      |
-|------------------|--------------------------|-----------------------------|
-| Resume Parser    | Basic NLP Logic          | TalentSync™ Full Pipeline   |
-| DEI Fit Checker  | Bias Detection Module    | FitScore™ Multi-Model AI    |
+| Module           | Open-Sourced Version     | Proprietary Equivalent          |
+|------------------|--------------------------|---------------------------------|
+| Resume Parser    | Basic Resume Extractor   | FitScore™ Engine Full Pipeline  |
+| DEI Fit Checker  | Basic Bias Flags         | FitScore™ Engine Full Pipeline  |
 
 ---
 
@@ -123,7 +123,7 @@ After refining these systems in production environments (2021–2024), I’m rel
 > **Note**: These tools represent functional subsets of larger proprietary systems — shared for learning, research, and ethical collaboration. Commercial replication is not permitted.
 
 © 2025 Shakeel Qureshi.  
-All naming conventions (e.g., TalentSync™, FitScore™), models, and deployment logic are protected by copyright and trademark, and were made available to clients under non-disclosure agreements (NDAs) between 2021 and 2024.
+All naming conventions (e.g., TalentSync™, EngageIQ™, FitScore™ and Talent Risk™), models, and deployment logic are protected by copyright and trademark, and were made available to clients under non-disclosure agreements (NDAs) between 2021 and 2024.
 
 ---
 
@@ -146,22 +146,22 @@ All naming conventions (e.g., TalentSync™, FitScore™), models, and deploymen
 
 ## ♦ AI ENGINE DETAILS 
 
-### 1. TalentSync™ – Predictive Sourcing & Matching  
-• **Geo-Optimized Job Posts**: Distributed across global tech hubs (South/East Europe & Asia) → automates distribution  
-• **Semantic Sourcing:** Platforms with developer activity (code, Q&A, project history) → matches contribution signals  
+### 1. TalentSync™ –  Predictive Sourcing & Talent Discovery
+• **Geo-Optimized Job Posts**: Distributed across global tech hubs (NA, EMEA, APAC) → automates distribution  
+• **Semantic Sourcing:** Platforms with developer activity (code, Q&A, project history) → matches signals  
 • **Intent & Risk Signals:** Community engagement & social graph analysis → predicts dropout risk & engagement  
-• **AI Matching Logic:** Evaluates portfolios and alignment to role requirements → filters 65% mismatches before outreach  
+• **AI Matching Logic:** Evaluates portfolios & alignment to role → filters 65% mismatches before outreach  
 
 
-### 2. EngageIQ™ – Candidate Experience Automation  
+### 2. EngageIQ™ – Personalized Outreach & Engagement
 • **AI Outreach**: LLM-personalized messages (tone, timing, match) → 40% reply rate (2.7× industry avg)  
-• **Bias-Aware Nurturing**: Follow-up logic tailored to inclusivity signals → 92% satisfaction rate (Candidate NPS: 4.5/5)  
+• **Bias-Aware Nurturing**: Follow-up logic, inclusivity signals → 92% satisfaction rate (Candidate NPS: 4.5/5)  
 
-### 3. FitScore™ – Bias-Resistant Screening  
+### 3. FitScore™ – Bias-Resistant Pre-Interview Screening
 • **Smart Intake**: 12-min GDPR/CCPA-compliant smart form → improved unbiased screening by 35%  
 • **Pre-Interview Shortlisting**: Analyzes 20+ factors → 65% shortlist rate, saves 15+ hrs/week  
 
-### 4. TalentRisk™ – Retention Analytics  
+### 4. TalentRisk™ – Retention Forecasting & Risk Analytics
 • **Predictive Retention**: Analyzes 45+ signals → 85% accuracy (↑ from 68%) on predicted 90-day fit  
 • **Risk Assessment**: Flags burnout, resignation, mismatch → enables early intervention  
 • **Audit-Ready AI**: Auto-logged decisions + transparent system logic  
@@ -172,12 +172,12 @@ _Proprietary AI engines | GDPR & EEOC compliant by design_
 
 ## ♦ ASSESSMENTS & VALIDATION 
 
-### Interviews & Assessments  
+###  Structured Scenario-based Interviews — Adaptive Tone + EQ-Driven Follow-Ups
 • **Culture Fit**: DEI-optimized scenarios → 92% shortlist alignment    
 • **Technical Fit**: Domain-specific tasks + follow-up reasoning checks → 40% fewer mis-hires  
 
-### Skills Validation  
-• **Coding Test**: AI-reviewed take-home tasks → 80% accuracy vs. 65% human benchmark; optional live coding  
+### Asynchronous Take-Home Tasks for Efficient Screening
+• **Coding Test**: AI-reviewed take-home tasks → 80% accuracy vs. 65% human benchmark; opt live coding  
 • **Situational Judgment Tests (SJT)**: Auto-scored → aligned with role models and competencies  
 
 ---
