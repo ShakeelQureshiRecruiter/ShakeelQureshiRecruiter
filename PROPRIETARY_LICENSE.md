@@ -2,12 +2,12 @@
 
 **PROTECTED INTELLECTUAL PROPERTY OF SHAKEEL QURESHI**
 
-#### 🧠 Covered Assets Include:
+#### Covered Assets Include:
 - **Core Engines:** TalentSync™, EngageIQ™, FitScore™, TalentRisk™  
 - **Workflows:** All recruitment automation processes  
 - **Implementations:** Scripts, models, algorithms, and documentation  
 
-#### ⚖️ Legal Protections:  
+#### Legal Protections:  
 - ☑ *Common Law Trademarks* (First Use: 2025)  
 - ☑ *Trade Secrets* (18 U.S. Code § 1836)  
 - ☑ *Copyright* (17 U.S. Code § 101)  
