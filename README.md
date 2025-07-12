@@ -10,7 +10,7 @@ confidential business assets protected under:
 Use constitutes acceptance of NDA Terms.  
 Unauthorized use, copying, or distribution is strictly prohibited.
 
-[PROPRIETARY LICENSE MD](./PROPRIETARY_LICENSE.md)  |  [Proprietary License TXT](./PROPRIETARY_LICENSE.txt)  |  [NDA Terms](./NDA.md)  |  [Contact Shakeel](mailto:shakeel.techrecruiter@gmail.com)
+[PROPRIETARY LICENSE MD](./PROPRIETARY_LICENSE.md) | [Proprietary License TXT](./PROPRIETARY_LICENSE.txt) | [NDA Terms](./NDA.md) | [Commercial Terms](./COMMERCIAL_TERMS.md)
 
 </div>
 
