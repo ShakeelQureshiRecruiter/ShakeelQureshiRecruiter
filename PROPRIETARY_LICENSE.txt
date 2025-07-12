@@ -8,12 +8,16 @@ This repository and all associated content — including but not limited to:
 • FitScore™
 • TalentRisk™
 
-— along with all related hiring workflows, scoring logic, automation scripts, models, and documentation, constitute the exclusive proprietary intellectual property of Shakeel Qureshi.
+— along with all related hiring workflows, scoring logic, automation scripts, models, and documentation, constitute
+the exclusive proprietary intellectual property of Shakeel Qureshi.
 
-All system names, components, and methodologies are protected under common law trademark rights (First Commercial Use: 2025). The ™ symbol is used to assert unregistered trademark ownership.
+All system names, components, and methodologies are protected under common law trademark rights (First Commercial Use: 2025).
+The ™ symbol is used to assert unregistered trademark ownership.
 
-Unauthorized use, copying, distribution, modification, reverse engineering, or derivative work — whether in whole or in part — is strictly prohibited without explicit written permission from the creator.
+Unauthorized use, copying, distribution, modification, reverse engineering, or derivative work — whether in whole or in part — 
+is strictly prohibited without explicit written permission from the creator.
 
-All logic descriptions in this repository are high-level summaries only. Specific implementation details, scoring algorithms, and client configurations remain confidential and proprietary.
+All logic descriptions in this repository are high-level summaries only. Specific implementation details, scoring algorithms, 
+and client configurations remain confidential and proprietary.
 
 © 2025 Shakeel Qureshi. All rights reserved.
