@@ -30,7 +30,7 @@ confidential business assets protected under:
 Use constitutes acceptance of NDA Terms.  
 Unauthorized use, copying, or distribution is strictly prohibited.
 
-[PROPRIETARY LICENSE MD](./PROPRIETARY_LICENSE.md) | [Proprietary License TXT](./PROPRIETARY_LICENSE.txt) | [NDA Terms](./NDA.md) | [Commercial Terms](./COMMERCIAL_TERMS.md)
+[ROPRIETARY LICENSE MD](./PROPRIETARY_LICENSE.md) | [PROPRIETARY LICENSE TXT](./PROPRIETARY_LICENSE.txt) | [NDA TERMS](./NDA.md) | [COMMERCIAL TERMS](./COMMERCIAL_TERMS.md)
 
 </div>
 
@@ -183,6 +183,8 @@ _Proprietary AI engines | GDPR & EEOC compliant by design_
 • **Hybrid** – Gradual deployment with phased automation  
 
 <img width="1501" height="522" alt="mermaid_20250703_e3f6c1" src="https://github.com/user-attachments/assets/e01f9970-da04-4b84-a22b-d2df8682ce8d" />  
+
+---
 
 All logic descriptions represent high-level summaries. Specific implementation details, scoring logic, and client configurations remain proprietary.  
 
