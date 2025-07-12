@@ -1,5 +1,5 @@
- # 🔒 AI Recruitment Systems  
-
+# AI Recruitment Systems  
+### Powering Next-Gen Hiring Workflows  
 <div align="center">
   
 > **PROPRIETARY INTELLECTUAL PROPERTY NOTICE**  
@@ -72,6 +72,8 @@ After refining these systems in production environments (2021–2024), I’m rel
 • Lightweight tools derived from production-grade systems  
 • Modular, API-ready logic for resume parsing, DEI scoring, async assessments  
 • Clear documentation and working demos for public use
+
+---
 
 ### 🔄 Open-Source Modules vs Proprietary Engines
 
