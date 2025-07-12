@@ -18,10 +18,10 @@ Senior Technical Recruiter & AI Hiring Architect
 ## 1. Purpose  
 To enable the confidential evaluation, discussion, and potential collaboration regarding the proprietary **AI Recruitment Systems Suite** developed by Shakeel Qureshi — including, but not limited to:
 
-- **TalentSync™** – Predictive sourcing & matching 
-- **EngageIQ™** – Personalized Outreach & Engagement  
+- **TalentSync™** – Predictive Sourcing & Talent Discovery
+- **EngageIQ™** – Personalized Outreach & Engagement
 - **FitScore™** – Bias-Resistant Pre-Interview Screening  
-- **TalentRisk™** – Predictive Analytics & Retention Risk  
+- **TalentRisk™** – Retention Forecasting & Risk Analytics
 
 This Agreement covers all underlying architecture, source code, scoring logic, models, workflows, datasets, and proprietary design associated with the above systems.
 
