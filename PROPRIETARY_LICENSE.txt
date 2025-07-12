@@ -1,23 +1,33 @@
-──────────────────────────────────────────────
-🔒 PROPRIETARY LICENSE – NOT OPEN SOURCE
-──────────────────────────────────────────────
+### 🔒 PROPRIETARY LICENSE – NOT OPEN SOURCE
 
-This repository and all associated content — including but not limited to:
-• TalentSync™
-• EngageIQ™
-• FitScore™
-• TalentRisk™
+**PROTECTED INTELLECTUAL PROPERTY OF SHAKEEL QURESHI**
 
-— along with all related hiring workflows, scoring logic, automation scripts, models, and documentation, constitute
-the exclusive proprietary intellectual property of Shakeel Qureshi.
+#### 🧠 Covered Assets Include:
+- **Core Engines:** TalentSync™, EngageIQ™, FitScore™, TalentRisk™  
+- **Workflows:** All recruitment automation processes  
+- **Implementations:** Scripts, models, algorithms, and documentation  
 
-All system names, components, and methodologies are protected under common law trademark rights (First Commercial Use: 2025).
-The ™ symbol is used to assert unregistered trademark ownership.
+#### ⚖️ Legal Protections:  
+- ☑ *Common Law Trademarks* (First Use: 2025)  
+- ☑ *Trade Secrets* (18 U.S. Code § 1836)  
+- ☑ *Copyright* (17 U.S. Code § 101)  
 
-Unauthorized use, copying, distribution, modification, reverse engineering, or derivative work — whether in whole or in part — 
-is strictly prohibited without explicit written permission from the creator.
+#### Prohibited Actions:  
+- ✖ Copying, distribution, or public display  
+- ✖ Modification, reverse engineering, or derivative works  
+- ✖ Commercial use of any kind  
 
-All logic descriptions in this repository are high-level summaries only. Specific implementation details, scoring algorithms, 
-and client configurations remain confidential and proprietary.
+#### Exceptions:  
+- ✓ Personal evaluation permitted  
+- ✓ NDA-bound enterprise licensing available  
+  _Contact: [shakeel.techrecruiter@gmail.com](mailto:shakeel.techrecruiter@gmail.com)_  
 
-© 2025 Shakeel Qureshi. All rights reserved.
+> **Notice:**  
+> All descriptions represent high-level abstractions. Implementation details,  
+> training methodologies, and client-specific configurations remain  
+> confidential business secrets.  
+
+© 2025 Shakeel Qureshi. All rights reserved.  
+Violations will be prosecuted to the fullest extent of the law.  
+
+---
