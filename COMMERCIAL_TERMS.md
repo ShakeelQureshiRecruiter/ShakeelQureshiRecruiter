@@ -1,4 +1,4 @@
-# 🧾 COMMERCIAL TERMS – AI RECRUITMENT SYSTEMS  
+# COMMERCIAL TERMS – AI RECRUITMENT SYSTEMS  
 **Proprietary Engines: TalentSync™, FitScore™, EngageIQ™, TalentRisk™**  
 © 2025 Shakeel Qureshi. All rights reserved.
 
