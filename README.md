@@ -1,4 +1,5 @@
-## AI RECRUITMENT SYSTEMS — Powering Next-Gen Hiring Workflows 
+## AI RECRUITMENT SYSTEMS SUITE — Next-Generation Hiring Automation  
+*Proprietary AI-Powered Hiring Tools*  
 
 • PROPRIETARY INTELLECTUAL PROPERTY NOTICE  
 • PERMISSIONS  
