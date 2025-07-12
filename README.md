@@ -74,7 +74,7 @@ _Hiring Innovation Since 1994 | AI Systems Since 2021 | Proprietary Engines Firs
 
 ## ♦ PUBLIC TRANSITION (2025) 
 
-From 2021 to 2024, I independently conceived, developed, and deployed a suite of modular AI recruitment systems — including, but not limited to, TalentSync™ (sourcing), FitScore™ (screening), EngageIQ™ (engagement), and TalentRisk™ (retention). These systems constitute my exclusive proprietary intellectual property and were made available to enterprise and stealth clients under strict non-disclosure agreements (NDAs).
+From 2021 to 2024, I independently conceived, developed, and deployed a suite of modular AI recruitment systems — including, but not limited to, TalentSync™ (sourcing), EngageIQ™ (engagement), FitScore™ (screening), and TalentRisk™ (retention). These systems constitute my exclusive proprietary intellectual property and were made available to enterprise and stealth clients under strict non-disclosure agreements (NDAs).
 
 All performance metrics cited (e.g., match rates, retention accuracy) were tracked across anonymized cohorts and remain reproducible.
 Although deployed via client-side infrastructure (e.g., private GitHub repos, internal ATS/CRM systems, LinkedIn automation workflows), all core logic, architectural design, and system IP remain solely owned by me — with no transfer, assignment, or licensing of ownership granted.
