@@ -196,7 +196,7 @@ All logic descriptions represent high-level summaries. Specific implementation d
 ---
 
 ## ♦ IP REMINDER 
-TalentSync™, FitScore™, EngageIQ™, and TalentRisk™ are proprietary recruitment engines developed by **Shakeel Qureshi** (First Commercial Use: 2025). All naming conventions, system logic, and deployment architecture remain the intellectual property of the developer.  
+TalentSync™,EngageIQ™, FitScore™, and TalentRisk™ are proprietary recruitment engines developed by **Shakeel Qureshi** (First Commercial Use: 2025). All naming conventions, system logic, and deployment architecture remain the intellectual property of the developer.  
 
 Systems are GDPR and EEOC compliant by design. May not be reused or commercialized without written consent.
 
