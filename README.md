@@ -1,22 +1,27 @@
-## AI RECRUITMENT SYSTEMS SUITE — Next-Generation Hiring Automation  
-*Proprietary AI-Powered Hiring Tools*  
+# AI Recruitment Systems Suite  
+### Next-Generation Hiring Automation — Proprietary AI-Powered Tools
 
-• Intellectual Property Notice  
-• Permissions  
-• Enforcement Notice  
-• About The Creator  
-• Public Transition (2025)  
-• Open-Source vs Proprietary Modules  
-• Why Open Source In 2025?  
-• Current GitHub Focus  
-• Live Repository  
-• Impact & Metrics   
-• Systems Highlights    
-• AI Engine Details  
-• Assessments & Validation  
-• Deployment Options  
-• IP Reminder  
-• Contact  
+<details>
+<summary><strong> Table of Contents</strong></summary>
+
+- [Intellectual Property Notice](#-proprietary-intellectual-property-notice)  
+- [Permissions](#-permissions)  
+- [Enforcement Notice](#-enforcement-notice)  
+- [About the Creator](#-about-the-creator)  
+- [Public Transition (2025)](#-public-transition-2025)  
+- [Open-Source vs Proprietary Modules](#-open-source-vs-proprietary-modules)  
+- [Why Open Source in 2025?](#-why-open-source-in-2025)  
+- [Current GitHub Focus](#-current-github-focus)  
+- [Live Repository](#-live-repository-livecode)  
+- [Impact & Metrics](#-impact--metrics)  
+- [Systems Highlights](#-system-highlights)  
+- [AI Engine Details](#-ai-engine-details)  
+- [Assessments & Validation](#-assessments--validation)  
+- [Deployment Options](#-deployment-options)  
+- [IP Reminder](#-ip-reminder)  
+- [Contact](#-contact)
+
+</details>
 
 ---
    
