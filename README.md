@@ -2,14 +2,15 @@
 ### Powering Next-Gen Hiring Workflows  
 <div align="center">
   
-> **PROPRIETARY INTELLECTUAL PROPERTY NOTICE**  
-> **This repository and all contents** (code/models/docs) constitute  
-> **confidential business assets** protected under:  
-> [PROPRIETARY_LICENSE](https://github.com/senior-tech-recruiter-ai/ai-predictive-recruitment/blob/main/PROPRIETARY_LICENSE.md) | [NDA Terms](NDA_TERMS.md)  
+## 🛡️ PROPRIETARY INTELLECTUAL PROPERTY NOTICE
 
-[![License](https://img.shields.io/badge/License-Proprietary-important)](PROPRIETARY_LICENSE)
-[![Commercial](https://img.shields.io/badge/Commercial-Forbidden-red)]()
-[![Contact](https://img.shields.io/badge/Inquiries-Email-blue)](mailto:shakeel.techrecruiter@gmail.com)
+This repository and all contents (code/models/docs) constitute  
+confidential business assets protected under:
+
+Use constitutes acceptance of NDA Terms.  
+Unauthorized use, copying, or distribution is strictly prohibited.
+
+[PROPRIETARY LICENSE MD](./PROPRIETARY_LICENSE.md)  |  [Proprietary License TXT](./PROPRIETARY_LICENSE.txt)  |  [NDA Terms](./NDA.md)  |  [Contact Shakeel](mailto:shakeel.techrecruiter@gmail.com)
 
 </div>
 
@@ -30,7 +31,7 @@
 > - Trademark litigation (for ™ violations)  
 
 **Licensing Inquiries**:  
-[shakeel.techrecruiter@gmail.com](mailto:shakeel.techrecruiter@gmail.com) | [Commercial Terms](COMMERCIAL_TERMS.md)
+[shakeel.techrecruiter@gmail.com](mailto:shakeel.techrecruiter@gmail.com) | [Commercial Terms](./COMMERCIAL_TERMS.md)
 
 ---
 
@@ -84,14 +85,12 @@ After refining these systems in production environments (2021–2024), I’m rel
 
 ---
 
-### ▸ Live Repository: [github.com/shakeelq](https://github.com/shakeelq)
-• **Resume Parser** (open-source resume parsing logic)
+### ▸ Live Repository: [LiveCode](https://github.com/senior-tech-recruiter-ai/LiveCode)
+• **Resume Parser** (open-source resume parsing logic)  
 • **DEI Fit Checker**  
 • **Outreach Assistant**
 
 > **Note**: These tools represent functional subsets of larger proprietary systems — shared for learning, research, and ethical collaboration. Commercial replication is not permitted.
-
-
 
 ---
 
@@ -165,11 +164,6 @@ _Proprietary AI engines | GDPR & EEOC compliant by design_
 ---
 
 All logic descriptions represent high-level summaries. Specific implementation details, scoring logic, and client configurations remain proprietary.  
-
----
-
-> 🔒 This repository contains proprietary systems.  
-> See [LICENSE.md](./LICENSE.md) for details or [LICENSE.txt](./LICENSE.txt) for legal summary.
 
 ---
 
