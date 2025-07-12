@@ -14,10 +14,14 @@
 ### PROTECTED ASSETS  
 
 **Core Recruitment Engines**  
-- TalentSync™ – Predictive Sourcing    
-- FitScore™ – Bias-Resistant Screening  
-- EngageIQ™ – Candidate Experience Analytics  
-- TalentRisk™ – Retention & Attrition Modeling  
+
+| Module         | Description                               |
+|----------------|-------------------------------------------|
+| **TalentSync™** | Predictive Sourcing & Talent Discovery   |
+| **EngageIQ™**   | Personalized Outreach & Engagement       |
+| **FitScore™**   | Bias-Resistant Pre-Interview Screening   |
+| **TalentRisk™** | Retention Forecasting & Risk Analytics   |
+
 
 **Covered Materials**  
 - AI/ML models and training datasets  
