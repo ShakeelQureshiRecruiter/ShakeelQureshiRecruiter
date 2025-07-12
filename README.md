@@ -5,7 +5,7 @@
 > **PROPRIETARY INTELLECTUAL PROPERTY NOTICE**  
 > **This repository and all contents** (code/models/docs) constitute  
 > **confidential business assets** protected under:  
-> [PROPRIETARY_LICENSE](PROPRIETARY_LICENSE) | [NDA Terms](NDA_TERMS.md)  
+> [PROPRIETARY_LICENSE](https://github.com/senior-tech-recruiter-ai/ai-predictive-recruitment/blob/main/PROPRIETARY_LICENSE.md) | [NDA Terms](NDA_TERMS.md)  
 
 [![License](https://img.shields.io/badge/License-Proprietary-important)](PROPRIETARY_LICENSE)
 [![Commercial](https://img.shields.io/badge/Commercial-Forbidden-red)]()
